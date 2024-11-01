@@ -1,6 +1,6 @@
 # Billboard Genie
 
-Billboard Genie is a comprehensive traffic monitoring and vehicle counting system designed to streamline real-time traffic analysis. The project comprises both a desktop application for tracking and counting vehicles and a website for accessible data visualization and reporting.  
+Billboard Genie is a comprehensive traffic monitoring and vehicle counting system designed to streamline real-time traffic analysis using a live CCTV stream.
 
 ## Table of Contents
 
@@ -17,9 +17,7 @@ Billboard Genie is a comprehensive traffic monitoring and vehicle counting syste
 ## Features
 
 - **Real-Time Traffic Analysis**: Efficiently captures and processes CCTV footage to identify and count vehicles (Cars, Buses, Trucks, Motorcycles).
-- **Website Dashboard**: A user-friendly dashboard for viewing vehicle counts, traffic patterns, and generating reports.
 - **User Authentication**: Ensures data security by allowing access to dashboard only after login.
-- **Data Visualization**: Presents analysis through interactive charts and graphs.
 - **High Performance**: Utilizes YOLOv8 and ByteTrack for reliable and accurate vehicle detection and tracking.
 
 ## Technologies Used
